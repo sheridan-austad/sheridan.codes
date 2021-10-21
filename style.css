@@ -2,7 +2,7 @@ body {
     background: seagreen;
     text-align: center
   }
-h2 {
+body.h2 {
     width: 300px;
     height: 100px;
     padding: 50px;
